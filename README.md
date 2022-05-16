@@ -30,8 +30,7 @@ methods.
 ## Deep Learning Architectures for training on ID dataset
   * Resnet50
   * VGG
-  * Densenet
-  DenseNet attained the best result among the 3 DNN models tested on. 82.98% validation accuracy after training for 8 epochs (due to compute limitations).
+  * Densenet : DenseNet attained the best result among the 3 DNN models tested on. 82.98% validation accuracy after training for 8 epochs (due to compute limitations).
   
 ## Pitfalls of DNN
    ### OOD Data
