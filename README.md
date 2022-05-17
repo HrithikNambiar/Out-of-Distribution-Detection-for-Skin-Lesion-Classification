@@ -57,7 +57,7 @@ keeping the temperature scaling factor to 1 during inference gives the best resu
 
 ![Result](Results_Table.jpg)
 
-![FPR95](BC24C137-23A7-4A9F-BF68-B98A421BCF26.jpeg)
+![FPR95](tpr_fpr.jpg)
 ## Our contributions
 
 * Identifying the problem of OOD data in the current Skin cancer classifiers and attempting to alleviate it using current SOTA OOD detection algotithms.
