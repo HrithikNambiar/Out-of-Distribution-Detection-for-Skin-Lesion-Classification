@@ -38,10 +38,9 @@ methods.
    ### OOD Data
    Densenet gives high confidence predictions on OOD datasets listed above. This is a major problem in the current DNNs.
 
-## Existing OOD methods
+## Relevant existing OOD methods
   ### ODIN - "ENHANCING THE RELIABILITY OF OUT-OF-DISTRIBUTION IMAGE DETECTION IN NEURAL NETWORKS"
   Paper: [ODIN](https://arxiv.org/pdf/1706.02690.pdf)
-  #### Results
   
 ## VOS: LEARNING WHAT YOU DON’T KNOW BY VIRTUAL OUTLIER SYNTHESIS
   Paper: [VOS](https://openreview.net/pdf?id=TW7d65uYu5M)
