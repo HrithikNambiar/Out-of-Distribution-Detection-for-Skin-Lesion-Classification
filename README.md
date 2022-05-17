@@ -56,3 +56,9 @@ methods.
 * Identifying the problem of OOD data in the current Skin cancer classifiers and attempting to alleviate it using current SOTA OOD detection algotithms.
 * Combining the training method proposed in VOS using outlier synthesis with the promising inference methods proposed in ODIN.
 * Studying the effects on different OOD datasets.
+
+## Possibilities of future work
+
+* We believe that VOS requires longer epochs of training since virtual outliers can only be efficiently sampled from the low-likelihood regions only after the distribution has been learned sufficiently well. Training using this strategy does seem to improve the results, however, we were unable to train for longer epochs due to the limitations in compute and time.
+* Using the OOD prediction branch of VOS and doing inference using it might work well, if we train VOS for longer epochs.
+
