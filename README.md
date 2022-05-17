@@ -48,6 +48,7 @@ methods.
 
 ## Results
 
+![Result](Table_results.jpeg)
 ## Our contributions
 
 * Identifying the problem of OOD data in the current Skin cancer classifiers and attempting to alleviate it using current SOTA OOD detection algotithms.
