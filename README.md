@@ -37,7 +37,7 @@ methods.
   
 ## Pitfalls of DNN
    ### OOD Data
-   Densenet gives high confidence predictions on OOD datasets listed above. This is a major problem in the current DNNs.
+   A trained deep neural network which performs very accurately on the In-Distribution fails when tested on Out-Of-Distribution data. This serves as the    motivation for dedicated OOD training paradigm for this problem of skin lesion detection. Having such a method in place is of atmost importance          whilst deploying such models in the medical domain.
 
 ## Relevant existing OOD methods
   ### ODIN - "ENHANCING THE RELIABILITY OF OUT-OF-DISTRIBUTION IMAGE DETECTION IN NEURAL NETWORKS"
