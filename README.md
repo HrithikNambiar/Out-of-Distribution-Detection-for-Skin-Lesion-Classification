@@ -49,3 +49,7 @@ methods.
 ## Results
 
 ## Our contributions
+
+* Identifying the problem of OOD data in the current Skin cancer classifiers and attempting to alleviate it using current SOTA OOD detection algotithms.
+* Combining the training method proposed in VOS using outlier synthesis with the promising inference methods proposed in ODIN.
+* Studying the effects on different OOD datasets.
