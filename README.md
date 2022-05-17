@@ -48,6 +48,9 @@ methods.
   
 ## Ours (Training using outlier synthesis and using ODIN inference method)
 
+We have used the training strategy proposed by VOS and used the inference method suggested in
+ODIN.
+
 ## Results
 
 ![Result](AAD6B208-2D2E-4A0A-BAF2-C93CB4DCB164.jpeg)
