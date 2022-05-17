@@ -2,7 +2,7 @@
 As part of the Deep Learning (CS F425) course project we have implemented "VOS: LEARNING WHAT YOU DON’T KNOW BY
 VIRTUAL OUTLIER SYNTHESIS".
 
-![Report](https://drive.google.com/file/d/1U_0OpxobWALTOzKO4xflq9eg0fTBgSMl/view?usp=sharing)
+[Report](https://drive.google.com/file/d/1U_0OpxobWALTOzKO4xflq9eg0fTBgSMl/view?usp=sharing)
 
 ## Abstract
 
