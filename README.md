@@ -52,7 +52,7 @@ methods.
 
 ![Result](AAD6B208-2D2E-4A0A-BAF2-C93CB4DCB164.jpeg)
 
-![FPR95](4DD53B24-2378-4BE6-AC55-639070090DF5.jpeg)
+![FPR95](BC24C137-23A7-4A9F-BF68-B98A421BCF26.jpeg.jpeg)
 ## Our contributions
 
 * Identifying the problem of OOD data in the current Skin cancer classifiers and attempting to alleviate it using current SOTA OOD detection algotithms.
