@@ -43,3 +43,7 @@ methods.
   
 ## VOS: LEARNING WHAT YOU DON’T KNOW BY VIRTUAL OUTLIER SYNTHESIS
   Paper: [VOS](https://openreview.net/pdf?id=TW7d65uYu5M)
+  
+## Ours (Training using outlier synthesis and using ODIN inference method)
+
+## Results
