@@ -1,5 +1,6 @@
 # Out-of-Distribution-Detection-for-Skin-Lesion-Classification
-Deep Learning (CS F425): Course Project
+As part of the Deep Learning (CS F425) course project we have implemented "VOS: LEARNING WHAT YOU DON’T KNOW BY
+VIRTUAL OUTLIER SYNTHESIS".
 
 Report: 
 
