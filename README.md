@@ -55,7 +55,7 @@ keeping the temperature scaling factor to 1 during inference gives the best resu
 
 ## Results
 
-![Result](AAD6B208-2D2E-4A0A-BAF2-C93CB4DCB164.jpeg)
+![Result](Results_Table.jpg)
 
 ![FPR95](BC24C137-23A7-4A9F-BF68-B98A421BCF26.jpeg)
 ## Our contributions
