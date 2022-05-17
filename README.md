@@ -48,8 +48,10 @@ methods.
   
 ## Ours (Training using outlier synthesis and using ODIN inference method)
 
-We have used the training strategy proposed by VOS and used the inference method suggested in
-ODIN.
+We have implemented VOS virtual outlier synthesis strategy on the Densenet that we have built
+to tackle this problem. This coupled with the inference method from ODIN, proves to out-perform
+other OOD methods listed in literature for Skin Lesion OOD detection. We also observe that
+keeping the temperature scaling factor to 1 during inference gives the best results.
 
 ## Results
 
