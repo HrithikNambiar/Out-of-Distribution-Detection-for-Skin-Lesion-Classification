@@ -47,3 +47,5 @@ methods.
 ## Ours (Training using outlier synthesis and using ODIN inference method)
 
 ## Results
+
+## Our contributions
