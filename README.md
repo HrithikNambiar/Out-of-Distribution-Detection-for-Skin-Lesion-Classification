@@ -66,8 +66,9 @@ keeping the temperature scaling factor to 1 during inference gives the best resu
 
 ## Possibilities of future work
 
-* We believe that VOS requires longer epochs of training since virtual outliers can only be efficiently sampled from the low-likelihood regions only after the distribution has been learned sufficiently well. Training using this strategy does seem to improve the results, however, we were unable to train for longer epochs due to the limitations in compute and time.
+* We believe that VOS requires longer epochs of training since virtual outliers can only be efficiently sampled from the low-likelihood regions only after the distribution has been learned sufficiently well. Training using this strategy does seem to improve the results, however, we would want to train for longer epochs.
 * Using the OOD prediction branch of VOS and doing inference using it might work well, if we train VOS for longer epochs.
+* Check if training for longer epochs does help our method outperform the current SOTA.
 
 ## Contributors:
 
