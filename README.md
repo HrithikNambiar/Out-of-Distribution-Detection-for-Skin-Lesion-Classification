@@ -72,7 +72,7 @@ keeping the temperature scaling factor to 1 during inference gives the best resu
 
 ## Contributors:
 
-* Vishwa Shah
 * Hrithik Nambiar
+* Vishwa Shah
 * Preeyam Sahu
 
