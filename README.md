@@ -70,9 +70,4 @@ keeping the temperature scaling factor to 1 during inference gives the best resu
 * Using the OOD prediction branch of VOS and doing inference using it might work well, if we train VOS for longer epochs.
 * Check if training for longer epochs does help our method outperform the current SOTA.
 
-## Contributors:
-
-* Hrithik Nambiar
-* Vishwa Shah
-
 
